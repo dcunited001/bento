@@ -1,3 +1,9 @@
+DC NOTES
+--------
+I forked this project to change the MD5/ISO's of the Ubuntu/Debian Baseboxes
+These ISO's are just slightly out of date online, making them hard to find.
+
+
 Bento is a project that encapsulates
 [Veewee](https://github.com/jedi4ever/veewee/) definitions for
 building [Vagrant](http://vagrantup.com) baseboxes. We use these boxes
